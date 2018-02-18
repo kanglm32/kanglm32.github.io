@@ -1,0 +1,147 @@
+.Header {
+  display: inline-block;
+  background: #a38da5  ;
+  font-size: 25px;
+  color: white;
+  font-weight: 800;
+  padding: 10px;
+  margin-left: 150px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+.imgleft {
+  float:left;
+  object-fit: cover;
+  max-height: 350px;
+  max-width: 350px;
+  margin-bottom: 0px;
+}
+
+.wordright {
+  float:right;
+}
+
+.test {
+  display: block;
+  padding: 4px;
+  /* margin-bottom: 20px; */
+  line-height: 1.42857143;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  -webkit-transition: border .2s ease-in-out;
+  -o-transition: border .2s ease-in-out;
+  transition: border .2s ease-in-out;
+}
+
+.bottomtitle {
+  font-size: 25px;
+  font-weight: 800;
+  padding: 10px;
+  margin-left: 150px;
+  margin-bottom: 0px;
+  text-align: left;
+}
+.maintitle {
+  font-size: 30px;
+  font-weight: 800;
+  /* padding: 10px;
+  margin-left: 150px;
+  margin-bottom: 0px;
+  text-align: left; */
+}
+
+.imgleft2 {
+  float:left;
+  object-fit: cover;
+  max-height: 170px;
+  position: relative;
+  max-width:100%;
+  margin-bottom: 0px;
+}
+.imgright2 {
+  float:right;
+  object-fit: cover;
+  max-height: 170px;
+  position: relative;
+  max-width: 170px;
+  margin-bottom: 0px;
+}
+
+.whitemark {
+ visibility: hidden;
+}
+
+.thumbnailr {
+  display: block;
+  padding: 4px;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  -webkit-transition: border .2s ease-in-out;
+  -o-transition: border .2s ease-in-out;
+  transition: border .2s ease-in-out;
+}
+
+.thumbnaill {
+  display: block;
+  padding: 4px;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  -webkit-transition: border .2s ease-in-out;
+  -o-transition: border .2s ease-in-out;
+  transition: border .2s ease-in-out;
+}
+.sizes {
+  align-content: center;
+  border-radius: 4px;
+  -webkit-transition: border .2s ease-in-out;
+  -o-transition: border .2s ease-in-out;
+  transition: border .2s ease-in-out;
+}
+
+.midwords {
+ text-align: center;
+ font-weight: 800;
+
+}
+
+.fit{
+  object-fit: cover;
+  height: 100%;
+  position: relative;
+  width: 100%;
+  margin-bottom: 0px;
+}
+.fits{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 70%;
+  position: relative;
+  width: 70%;
+  margin-bottom: 0px;
+}
+
+.tables{
+  display: block;
+  align-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  height: 70%;
+  position: relative;
+  width: 70%;
+  margin-bottom: 0px;
+}
+
+.datatitle{
+color: gray;
+font-weight: 800;
+}
